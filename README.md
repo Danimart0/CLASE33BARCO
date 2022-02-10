@@ -1,1 +1,2 @@
-# CLASE33BARCO
+# InvasiónPirataEtapa-5
+animación de sprite agregada
